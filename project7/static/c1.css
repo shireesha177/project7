@@ -1,0 +1,9 @@
+h1{
+    color:azure;
+    background-color: rgb(15, 127, 224);
+    text-decoration-color: black;
+    img{
+        height: 500px;
+        width: 400px;
+    }
+}
